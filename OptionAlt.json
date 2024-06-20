@@ -1,0 +1,84 @@
+  const jsonOptions = {
+  "Film": {
+    "Omar Sharif": false,
+    "Hind Rostom": false,
+    "Faten Hamama": false,
+    "Adel Imam": false,
+    "Yousra": false,
+    "Ahmed Zaki": false
+  },
+  "Singers": {
+    "Amr Diab": false,
+    "Umm Kulthum": false,
+    "Tamer Hosny": false,
+    "Mohamed Mounir": false,
+    "Sherine": false,
+    "Nancy Ajram": false
+  },
+  "Marvel Superheroes": {
+    "Spider-Man": false,
+    "Iron Man": false,
+    "Captain America": false,
+    "Thor": false,
+    "Black Widow": false,
+    "Hulk": false
+  },
+  "Harry Potter": {
+    "Harry Potter": false,
+    "Hermione Granger": false,
+    "Ron Weasley": false,
+    "Severus Snape": false,
+    "Albus Dumbledore": false,
+    "Lord Voldemort": false
+  },
+  "Classic Cartoon": {
+    "Mickey Mouse": false,
+    "Bugs Bunny": false,
+    "Scooby-Doo": false,
+    "Tom and Jerry": false,
+    "Popeye": false,
+    "Betty Boop": false
+  },
+  "Historical Figures": {
+    "Cleopatra": false,
+    "Tutankhamun": false,
+    "Salah ad-Din": false,
+    "Nefertiti": false,
+    "Ramses II": false,
+    "Hatshepsut": false
+  },
+  "Literary Characters": {
+    "Sherlock Holmes": false,
+    "Elizabeth Bennet": false,
+    "Jay Gatsby": false,
+    "Atticus Finch": false,
+    "Holden Caulfield": false,
+    "Jane Eyre": false
+  },
+  "Sci-Fi": {
+    "Luke Skywalker": false,
+    "Ellen Ripley": false,
+    "Neo": false,
+    "Spock": false,
+    "Sarah Connor": false,
+    "Rick Deckard": false
+  },
+  "Mythical Creatures": {
+    "Sphinx": false,
+    "Phoenix": false,
+    "Minotaur": false,
+    "Medusa": false,
+    "Griffin": false,
+    "Centaur": false
+  },
+  "Disney": {
+    "Simba": false,
+    "Ariel": false,
+    "Belle": false,
+    "Aladdin": false,
+    "Mulan": false,
+    "Pocahontas": false
+  }
+}
+
+
